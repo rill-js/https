@@ -15,7 +15,7 @@ npm install @rill/https
 # Example
 
 ```javascript
-var https = require("https");
+var https = require("@rill/https");
 
 window; //-> [Object object]
 
