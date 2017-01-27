@@ -1,7 +1,7 @@
 {
   "name": "@rill/https",
   "description": "Isomorphic https module with createServer support.",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "author": "Dylan Piercey <pierceydylan@gmail.com>",
   "browser": "client/index.js",
   "bugs": "https://github.com/rill-js/https/issues",
@@ -18,7 +18,7 @@
   "license": "MIT",
   "main": "server/index.js",
   "peerDependencies": {
-    "@rill/http": "2.x"
+    "@rill/http": "3.x"
   },
   "repository": {
     "type": "git",
