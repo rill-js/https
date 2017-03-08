@@ -1,3 +1,3 @@
-"use strict";
+'use strict'
 
-module.exports = require("https");
+module.exports = require('https')

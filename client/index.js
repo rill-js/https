@@ -1,3 +1,3 @@
-"use strict";
+'use strict'
 
-module.exports = require("@rill/http");
+module.exports = require('@rill/http')
